@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\002 - API .NET\\BookManagementAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1F0DF567-DD11-4E6B-BB22-0E437682F92D}|BookManagementAPI.csproj|c:\\users\\vx221vs\\onedrive - ey\\documents\\milton soares\\002 - learning\\004 - rocketseat\\001 - c sharp\\002 - api .net\\bookmanagementapi\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0DF567-DD11-4E6B-BB22-0E437682F92D}|BookManagementAPI.csproj|solutionrelative:entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1F0DF567-DD11-4E6B-BB22-0E437682F92D}|BookManagementAPI.csproj|c:\\users\\vx221vs\\onedrive - ey\\documents\\milton soares\\002 - learning\\004 - rocketseat\\001 - c sharp\\002 - api .net\\bookmanagementapi\\communication\\requests\\requestupdatebookjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F0DF567-DD11-4E6B-BB22-0E437682F92D}|BookManagementAPI.csproj|solutionrelative:communication\\requests\\requestupdatebookjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\002 - API .NET\\BookManagementAPI\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\002 - API .NET\\BookManagementAPI\\Entities\\Book.cs",
+              "RelativeToolTip": "Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:15:30.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "RequestUpdateBookJson.cs",
               "DocumentMoniker": "C:\\Users\\VX221VS\\OneDrive - EY\\Documents\\Milton Soares\\002 - Learning\\004 - Rocketseat\\001 - C sharp\\002 - API .NET\\BookManagementAPI\\Communication\\Requests\\RequestUpdateBookJson.cs",
               "RelativeDocumentMoniker": "Communication\\Requests\\RequestUpdateBookJson.cs",
